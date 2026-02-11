@@ -10,10 +10,12 @@ java
 ## Two Pointers
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/Varun-3010/Applied-Programming-Skills/tree/master/0075-sort-colors) |
 | [0876-middle-of-the-linked-list](https://github.com/Varun-3010/Applied-Programming-Skills/tree/master/0876-middle-of-the-linked-list) |
 ## Array
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/Varun-3010/Applied-Programming-Skills/tree/master/0075-sort-colors) |
 | [0704-binary-search](https://github.com/Varun-3010/Applied-Programming-Skills/tree/master/0704-binary-search) |
 | [1480-running-sum-of-1d-array](https://github.com/Varun-3010/Applied-Programming-Skills/tree/master/1480-running-sum-of-1d-array) |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/Varun-3010/Applied-Programming-Skills/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
@@ -42,4 +44,8 @@ java
 |  |
 | ------- |
 | [0704-binary-search](https://github.com/Varun-3010/Applied-Programming-Skills/tree/master/0704-binary-search) |
+## Sorting
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Varun-3010/Applied-Programming-Skills/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
