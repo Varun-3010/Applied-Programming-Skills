@@ -11,12 +11,14 @@ java
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Varun-3010/Applied-Programming-Skills/tree/master/0075-sort-colors) |
+| [0283-move-zeroes](https://github.com/Varun-3010/Applied-Programming-Skills/tree/master/0283-move-zeroes) |
 | [0876-middle-of-the-linked-list](https://github.com/Varun-3010/Applied-Programming-Skills/tree/master/0876-middle-of-the-linked-list) |
 ## Array
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Varun-3010/Applied-Programming-Skills/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Varun-3010/Applied-Programming-Skills/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0283-move-zeroes](https://github.com/Varun-3010/Applied-Programming-Skills/tree/master/0283-move-zeroes) |
 | [0704-binary-search](https://github.com/Varun-3010/Applied-Programming-Skills/tree/master/0704-binary-search) |
 | [1480-running-sum-of-1d-array](https://github.com/Varun-3010/Applied-Programming-Skills/tree/master/1480-running-sum-of-1d-array) |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/Varun-3010/Applied-Programming-Skills/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
