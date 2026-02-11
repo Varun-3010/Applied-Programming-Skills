@@ -8,6 +8,7 @@ java
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Varun-3010/Applied-Programming-Skills/tree/master/0021-merge-two-sorted-lists) |
 | [0023-merge-k-sorted-lists](https://github.com/Varun-3010/Applied-Programming-Skills/tree/master/0023-merge-k-sorted-lists) |
+| [0025-reverse-nodes-in-k-group](https://github.com/Varun-3010/Applied-Programming-Skills/tree/master/0025-reverse-nodes-in-k-group) |
 | [0206-reverse-linked-list](https://github.com/Varun-3010/Applied-Programming-Skills/tree/master/0206-reverse-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Varun-3010/Applied-Programming-Skills/tree/master/0876-middle-of-the-linked-list) |
 ## Two Pointers
@@ -83,6 +84,7 @@ java
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Varun-3010/Applied-Programming-Skills/tree/master/0021-merge-two-sorted-lists) |
+| [0025-reverse-nodes-in-k-group](https://github.com/Varun-3010/Applied-Programming-Skills/tree/master/0025-reverse-nodes-in-k-group) |
 | [0206-reverse-linked-list](https://github.com/Varun-3010/Applied-Programming-Skills/tree/master/0206-reverse-linked-list) |
 ## Divide and Conquer
 |  |
