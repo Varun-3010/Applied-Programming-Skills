@@ -16,6 +16,7 @@ java
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Varun-3010/Applied-Programming-Skills/tree/master/0075-sort-colors) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Varun-3010/Applied-Programming-Skills/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0704-binary-search](https://github.com/Varun-3010/Applied-Programming-Skills/tree/master/0704-binary-search) |
 | [1480-running-sum-of-1d-array](https://github.com/Varun-3010/Applied-Programming-Skills/tree/master/1480-running-sum-of-1d-array) |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/Varun-3010/Applied-Programming-Skills/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
@@ -48,4 +49,8 @@ java
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Varun-3010/Applied-Programming-Skills/tree/master/0075-sort-colors) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Varun-3010/Applied-Programming-Skills/tree/master/0121-best-time-to-buy-and-sell-stock) |
 <!---LeetCode Topics End-->
