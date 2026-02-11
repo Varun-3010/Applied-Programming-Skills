@@ -6,6 +6,7 @@ java
 ## Linked List
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/Varun-3010/Applied-Programming-Skills/tree/master/0021-merge-two-sorted-lists) |
 | [0876-middle-of-the-linked-list](https://github.com/Varun-3010/Applied-Programming-Skills/tree/master/0876-middle-of-the-linked-list) |
 ## Two Pointers
 |  |
@@ -76,4 +77,8 @@ java
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/Varun-3010/Applied-Programming-Skills/tree/master/0219-contains-duplicate-ii) |
+## Recursion
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/Varun-3010/Applied-Programming-Skills/tree/master/0021-merge-two-sorted-lists) |
 <!---LeetCode Topics End-->
