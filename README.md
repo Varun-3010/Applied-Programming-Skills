@@ -25,4 +25,16 @@ java
 |  |
 | ------- |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/Varun-3010/Applied-Programming-Skills/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
+## Design
+|  |
+| ------- |
+| [0933-number-of-recent-calls](https://github.com/Varun-3010/Applied-Programming-Skills/tree/master/0933-number-of-recent-calls) |
+## Queue
+|  |
+| ------- |
+| [0933-number-of-recent-calls](https://github.com/Varun-3010/Applied-Programming-Skills/tree/master/0933-number-of-recent-calls) |
+## Data Stream
+|  |
+| ------- |
+| [0933-number-of-recent-calls](https://github.com/Varun-3010/Applied-Programming-Skills/tree/master/0933-number-of-recent-calls) |
 <!---LeetCode Topics End-->
