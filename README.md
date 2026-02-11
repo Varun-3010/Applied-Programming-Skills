@@ -87,6 +87,7 @@ java
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Varun-3010/Applied-Programming-Skills/tree/master/0020-valid-parentheses) |
 | [0344-reverse-string](https://github.com/Varun-3010/Applied-Programming-Skills/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/Varun-3010/Applied-Programming-Skills/tree/master/0387-first-unique-character-in-a-string) |
 ## Counting
@@ -119,6 +120,7 @@ java
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Varun-3010/Applied-Programming-Skills/tree/master/0020-valid-parentheses) |
 | [0234-palindrome-linked-list](https://github.com/Varun-3010/Applied-Programming-Skills/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/Varun-3010/Applied-Programming-Skills/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/Varun-3010/Applied-Programming-Skills/tree/master/0739-daily-temperatures) |
