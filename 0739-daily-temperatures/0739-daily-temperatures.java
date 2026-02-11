@@ -1,15 +1,18 @@
 class Solution {
-    public int[] dailyTemperatures(int[] temps) {
-        int[] results = new int[temps.length];
-        Stack<Integer> stack = new Stack<>();
-        /// UPVOTE !
-        for (int i = 0; i < temps.length; i++) {
-            while (!stack.isEmpty() && temps[stack.peek()] < temps[i]) {
-                results[stack.peek()] = i - stack.pop();
+    public int[] dailyTemperatures(int[] temperatures) {
+        int len = temperatures.length;
+        int[] result = new int[len];
+        for (int i = len - 2; i >= 0; i--) {
+            int next = i + 1;
+            while (next < len && temperatures[i] >= temperatures[next]) {
+                if (result[next] == 0)
+                    break;// No warmer day ahead
+                next += result[next]; // Skip ahead using jump table
             }
-            stack.push(i);
+            if (next < len && temperatures[i] < temperatures[next]) {
+                result[i] = next - i; // Calculate days to the next warmer day
+            }
         }
-
-        return results;
+        return result;
     }
 }
