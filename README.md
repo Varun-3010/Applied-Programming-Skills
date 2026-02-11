@@ -10,6 +10,7 @@ java
 | [0023-merge-k-sorted-lists](https://github.com/Varun-3010/Applied-Programming-Skills/tree/master/0023-merge-k-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/Varun-3010/Applied-Programming-Skills/tree/master/0025-reverse-nodes-in-k-group) |
 | [0142-linked-list-cycle-ii](https://github.com/Varun-3010/Applied-Programming-Skills/tree/master/0142-linked-list-cycle-ii) |
+| [0160-intersection-of-two-linked-lists](https://github.com/Varun-3010/Applied-Programming-Skills/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/Varun-3010/Applied-Programming-Skills/tree/master/0206-reverse-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Varun-3010/Applied-Programming-Skills/tree/master/0876-middle-of-the-linked-list) |
 ## Two Pointers
@@ -17,6 +18,7 @@ java
 | ------- |
 | [0075-sort-colors](https://github.com/Varun-3010/Applied-Programming-Skills/tree/master/0075-sort-colors) |
 | [0142-linked-list-cycle-ii](https://github.com/Varun-3010/Applied-Programming-Skills/tree/master/0142-linked-list-cycle-ii) |
+| [0160-intersection-of-two-linked-lists](https://github.com/Varun-3010/Applied-Programming-Skills/tree/master/0160-intersection-of-two-linked-lists) |
 | [0283-move-zeroes](https://github.com/Varun-3010/Applied-Programming-Skills/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Varun-3010/Applied-Programming-Skills/tree/master/0344-reverse-string) |
 | [0876-middle-of-the-linked-list](https://github.com/Varun-3010/Applied-Programming-Skills/tree/master/0876-middle-of-the-linked-list) |
@@ -68,6 +70,7 @@ java
 |  |
 | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/Varun-3010/Applied-Programming-Skills/tree/master/0142-linked-list-cycle-ii) |
+| [0160-intersection-of-two-linked-lists](https://github.com/Varun-3010/Applied-Programming-Skills/tree/master/0160-intersection-of-two-linked-lists) |
 | [0219-contains-duplicate-ii](https://github.com/Varun-3010/Applied-Programming-Skills/tree/master/0219-contains-duplicate-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/Varun-3010/Applied-Programming-Skills/tree/master/0387-first-unique-character-in-a-string) |
 ## String
