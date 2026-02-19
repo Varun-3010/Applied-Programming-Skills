@@ -36,6 +36,7 @@ java
 | [0219-contains-duplicate-ii](https://github.com/Varun-3010/Applied-Programming-Skills/tree/master/0219-contains-duplicate-ii) |
 | [0239-sliding-window-maximum](https://github.com/Varun-3010/Applied-Programming-Skills/tree/master/0239-sliding-window-maximum) |
 | [0283-move-zeroes](https://github.com/Varun-3010/Applied-Programming-Skills/tree/master/0283-move-zeroes) |
+| [0347-top-k-frequent-elements](https://github.com/Varun-3010/Applied-Programming-Skills/tree/master/0347-top-k-frequent-elements) |
 | [0496-next-greater-element-i](https://github.com/Varun-3010/Applied-Programming-Skills/tree/master/0496-next-greater-element-i) |
 | [0621-task-scheduler](https://github.com/Varun-3010/Applied-Programming-Skills/tree/master/0621-task-scheduler) |
 | [0622-design-circular-queue](https://github.com/Varun-3010/Applied-Programming-Skills/tree/master/0622-design-circular-queue) |
@@ -91,6 +92,7 @@ java
 | ------- |
 | [0075-sort-colors](https://github.com/Varun-3010/Applied-Programming-Skills/tree/master/0075-sort-colors) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Varun-3010/Applied-Programming-Skills/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/Varun-3010/Applied-Programming-Skills/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/Varun-3010/Applied-Programming-Skills/tree/master/0621-task-scheduler) |
 | [0977-squares-of-a-sorted-array](https://github.com/Varun-3010/Applied-Programming-Skills/tree/master/0977-squares-of-a-sorted-array) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Varun-3010/Applied-Programming-Skills/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -104,6 +106,7 @@ java
 | [0142-linked-list-cycle-ii](https://github.com/Varun-3010/Applied-Programming-Skills/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Varun-3010/Applied-Programming-Skills/tree/master/0160-intersection-of-two-linked-lists) |
 | [0219-contains-duplicate-ii](https://github.com/Varun-3010/Applied-Programming-Skills/tree/master/0219-contains-duplicate-ii) |
+| [0347-top-k-frequent-elements](https://github.com/Varun-3010/Applied-Programming-Skills/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/Varun-3010/Applied-Programming-Skills/tree/master/0387-first-unique-character-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/Varun-3010/Applied-Programming-Skills/tree/master/0496-next-greater-element-i) |
 | [0621-task-scheduler](https://github.com/Varun-3010/Applied-Programming-Skills/tree/master/0621-task-scheduler) |
@@ -119,6 +122,7 @@ java
 ## Counting
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/Varun-3010/Applied-Programming-Skills/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/Varun-3010/Applied-Programming-Skills/tree/master/0387-first-unique-character-in-a-string) |
 | [0621-task-scheduler](https://github.com/Varun-3010/Applied-Programming-Skills/tree/master/0621-task-scheduler) |
 ## Sliding Window
@@ -139,12 +143,14 @@ java
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Varun-3010/Applied-Programming-Skills/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Varun-3010/Applied-Programming-Skills/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/Varun-3010/Applied-Programming-Skills/tree/master/0347-top-k-frequent-elements) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Varun-3010/Applied-Programming-Skills/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Varun-3010/Applied-Programming-Skills/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/Varun-3010/Applied-Programming-Skills/tree/master/0239-sliding-window-maximum) |
+| [0347-top-k-frequent-elements](https://github.com/Varun-3010/Applied-Programming-Skills/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/Varun-3010/Applied-Programming-Skills/tree/master/0621-task-scheduler) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/Varun-3010/Applied-Programming-Skills/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 ## Merge Sort
@@ -266,4 +272,9 @@ java
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Varun-3010/Applied-Programming-Skills/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/Varun-3010/Applied-Programming-Skills/tree/master/0347-top-k-frequent-elements) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Varun-3010/Applied-Programming-Skills/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
