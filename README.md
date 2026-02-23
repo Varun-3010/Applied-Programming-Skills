@@ -45,6 +45,7 @@ java
 | [0704-binary-search](https://github.com/Varun-3010/Applied-Programming-Skills/tree/master/0704-binary-search) |
 | [0735-asteroid-collision](https://github.com/Varun-3010/Applied-Programming-Skills/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/Varun-3010/Applied-Programming-Skills/tree/master/0739-daily-temperatures) |
+| [0867-transpose-matrix](https://github.com/Varun-3010/Applied-Programming-Skills/tree/master/0867-transpose-matrix) |
 | [0946-validate-stack-sequences](https://github.com/Varun-3010/Applied-Programming-Skills/tree/master/0946-validate-stack-sequences) |
 | [0977-squares-of-a-sorted-array](https://github.com/Varun-3010/Applied-Programming-Skills/tree/master/0977-squares-of-a-sorted-array) |
 | [1314-matrix-block-sum](https://github.com/Varun-3010/Applied-Programming-Skills/tree/master/1314-matrix-block-sum) |
@@ -191,6 +192,7 @@ java
 |  |
 | ------- |
 | [0735-asteroid-collision](https://github.com/Varun-3010/Applied-Programming-Skills/tree/master/0735-asteroid-collision) |
+| [0867-transpose-matrix](https://github.com/Varun-3010/Applied-Programming-Skills/tree/master/0867-transpose-matrix) |
 | [0946-validate-stack-sequences](https://github.com/Varun-3010/Applied-Programming-Skills/tree/master/0946-validate-stack-sequences) |
 ## Monotonic Queue
 |  |
@@ -286,5 +288,6 @@ java
 ## Matrix
 |  |
 | ------- |
+| [0867-transpose-matrix](https://github.com/Varun-3010/Applied-Programming-Skills/tree/master/0867-transpose-matrix) |
 | [1314-matrix-block-sum](https://github.com/Varun-3010/Applied-Programming-Skills/tree/master/1314-matrix-block-sum) |
 <!---LeetCode Topics End-->
