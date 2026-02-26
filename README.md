@@ -114,6 +114,7 @@ java
 | [0219-contains-duplicate-ii](https://github.com/Varun-3010/Applied-Programming-Skills/tree/master/0219-contains-duplicate-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Varun-3010/Applied-Programming-Skills/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/Varun-3010/Applied-Programming-Skills/tree/master/0387-first-unique-character-in-a-string) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/Varun-3010/Applied-Programming-Skills/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/Varun-3010/Applied-Programming-Skills/tree/master/0496-next-greater-element-i) |
 | [0621-task-scheduler](https://github.com/Varun-3010/Applied-Programming-Skills/tree/master/0621-task-scheduler) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Varun-3010/Applied-Programming-Skills/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -124,6 +125,7 @@ java
 | [0257-binary-tree-paths](https://github.com/Varun-3010/Applied-Programming-Skills/tree/master/0257-binary-tree-paths) |
 | [0344-reverse-string](https://github.com/Varun-3010/Applied-Programming-Skills/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/Varun-3010/Applied-Programming-Skills/tree/master/0387-first-unique-character-in-a-string) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/Varun-3010/Applied-Programming-Skills/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0459-repeated-substring-pattern](https://github.com/Varun-3010/Applied-Programming-Skills/tree/master/0459-repeated-substring-pattern) |
 | [0796-rotate-string](https://github.com/Varun-3010/Applied-Programming-Skills/tree/master/0796-rotate-string) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/Varun-3010/Applied-Programming-Skills/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
@@ -140,6 +142,7 @@ java
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/Varun-3010/Applied-Programming-Skills/tree/master/0219-contains-duplicate-ii) |
 | [0239-sliding-window-maximum](https://github.com/Varun-3010/Applied-Programming-Skills/tree/master/0239-sliding-window-maximum) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/Varun-3010/Applied-Programming-Skills/tree/master/0438-find-all-anagrams-in-a-string) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/Varun-3010/Applied-Programming-Skills/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 ## Recursion
 |  |
