@@ -36,6 +36,7 @@ java
 | [0075-sort-colors](https://github.com/Varun-3010/Applied-Programming-Skills/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Varun-3010/Applied-Programming-Skills/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Varun-3010/Applied-Programming-Skills/tree/master/0215-kth-largest-element-in-an-array) |
+| [0217-contains-duplicate](https://github.com/Varun-3010/Applied-Programming-Skills/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Varun-3010/Applied-Programming-Skills/tree/master/0219-contains-duplicate-ii) |
 | [0239-sliding-window-maximum](https://github.com/Varun-3010/Applied-Programming-Skills/tree/master/0239-sliding-window-maximum) |
 | [0283-move-zeroes](https://github.com/Varun-3010/Applied-Programming-Skills/tree/master/0283-move-zeroes) |
@@ -99,6 +100,7 @@ java
 | ------- |
 | [0075-sort-colors](https://github.com/Varun-3010/Applied-Programming-Skills/tree/master/0075-sort-colors) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Varun-3010/Applied-Programming-Skills/tree/master/0215-kth-largest-element-in-an-array) |
+| [0217-contains-duplicate](https://github.com/Varun-3010/Applied-Programming-Skills/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/Varun-3010/Applied-Programming-Skills/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/Varun-3010/Applied-Programming-Skills/tree/master/0621-task-scheduler) |
 | [0977-squares-of-a-sorted-array](https://github.com/Varun-3010/Applied-Programming-Skills/tree/master/0977-squares-of-a-sorted-array) |
@@ -114,6 +116,7 @@ java
 | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/Varun-3010/Applied-Programming-Skills/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Varun-3010/Applied-Programming-Skills/tree/master/0160-intersection-of-two-linked-lists) |
+| [0217-contains-duplicate](https://github.com/Varun-3010/Applied-Programming-Skills/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Varun-3010/Applied-Programming-Skills/tree/master/0219-contains-duplicate-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Varun-3010/Applied-Programming-Skills/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/Varun-3010/Applied-Programming-Skills/tree/master/0387-first-unique-character-in-a-string) |
