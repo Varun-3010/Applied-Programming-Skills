@@ -24,6 +24,7 @@ java
 | [0075-sort-colors](https://github.com/Varun-3010/Applied-Programming-Skills/tree/master/0075-sort-colors) |
 | [0142-linked-list-cycle-ii](https://github.com/Varun-3010/Applied-Programming-Skills/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Varun-3010/Applied-Programming-Skills/tree/master/0160-intersection-of-two-linked-lists) |
+| [0202-happy-number](https://github.com/Varun-3010/Applied-Programming-Skills/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/Varun-3010/Applied-Programming-Skills/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/Varun-3010/Applied-Programming-Skills/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Varun-3010/Applied-Programming-Skills/tree/master/0344-reverse-string) |
@@ -73,6 +74,7 @@ java
 ## Math
 |  |
 | ------- |
+| [0202-happy-number](https://github.com/Varun-3010/Applied-Programming-Skills/tree/master/0202-happy-number) |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/Varun-3010/Applied-Programming-Skills/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
 ## Design
 |  |
@@ -125,6 +127,7 @@ java
 | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/Varun-3010/Applied-Programming-Skills/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Varun-3010/Applied-Programming-Skills/tree/master/0160-intersection-of-two-linked-lists) |
+| [0202-happy-number](https://github.com/Varun-3010/Applied-Programming-Skills/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/Varun-3010/Applied-Programming-Skills/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Varun-3010/Applied-Programming-Skills/tree/master/0219-contains-duplicate-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Varun-3010/Applied-Programming-Skills/tree/master/0347-top-k-frequent-elements) |
