@@ -38,6 +38,7 @@ java
 | [0075-sort-colors](https://github.com/Varun-3010/Applied-Programming-Skills/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Varun-3010/Applied-Programming-Skills/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/Varun-3010/Applied-Programming-Skills/tree/master/0169-majority-element) |
+| [0198-house-robber](https://github.com/Varun-3010/Applied-Programming-Skills/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/Varun-3010/Applied-Programming-Skills/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Varun-3010/Applied-Programming-Skills/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Varun-3010/Applied-Programming-Skills/tree/master/0217-contains-duplicate) |
@@ -129,6 +130,7 @@ java
 | [0005-longest-palindromic-substring](https://github.com/Varun-3010/Applied-Programming-Skills/tree/master/0005-longest-palindromic-substring) |
 | [0053-maximum-subarray](https://github.com/Varun-3010/Applied-Programming-Skills/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Varun-3010/Applied-Programming-Skills/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0198-house-robber](https://github.com/Varun-3010/Applied-Programming-Skills/tree/master/0198-house-robber) |
 | [0542-01-matrix](https://github.com/Varun-3010/Applied-Programming-Skills/tree/master/0542-01-matrix) |
 ## Hash Table
 |  |
