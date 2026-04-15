@@ -56,6 +56,7 @@ java
 | [0735-asteroid-collision](https://github.com/Varun-3010/Applied-Programming-Skills/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/Varun-3010/Applied-Programming-Skills/tree/master/0739-daily-temperatures) |
 | [0867-transpose-matrix](https://github.com/Varun-3010/Applied-Programming-Skills/tree/master/0867-transpose-matrix) |
+| [0929-unique-email-addresses](https://github.com/Varun-3010/Applied-Programming-Skills/tree/master/0929-unique-email-addresses) |
 | [0946-validate-stack-sequences](https://github.com/Varun-3010/Applied-Programming-Skills/tree/master/0946-validate-stack-sequences) |
 | [0977-squares-of-a-sorted-array](https://github.com/Varun-3010/Applied-Programming-Skills/tree/master/0977-squares-of-a-sorted-array) |
 | [0994-rotting-oranges](https://github.com/Varun-3010/Applied-Programming-Skills/tree/master/0994-rotting-oranges) |
@@ -136,6 +137,7 @@ java
 | [0496-next-greater-element-i](https://github.com/Varun-3010/Applied-Programming-Skills/tree/master/0496-next-greater-element-i) |
 | [0621-task-scheduler](https://github.com/Varun-3010/Applied-Programming-Skills/tree/master/0621-task-scheduler) |
 | [0721-accounts-merge](https://github.com/Varun-3010/Applied-Programming-Skills/tree/master/0721-accounts-merge) |
+| [0929-unique-email-addresses](https://github.com/Varun-3010/Applied-Programming-Skills/tree/master/0929-unique-email-addresses) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Varun-3010/Applied-Programming-Skills/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0997-find-the-town-judge](https://github.com/Varun-3010/Applied-Programming-Skills/tree/master/0997-find-the-town-judge) |
 ## String
@@ -151,6 +153,7 @@ java
 | [0459-repeated-substring-pattern](https://github.com/Varun-3010/Applied-Programming-Skills/tree/master/0459-repeated-substring-pattern) |
 | [0721-accounts-merge](https://github.com/Varun-3010/Applied-Programming-Skills/tree/master/0721-accounts-merge) |
 | [0796-rotate-string](https://github.com/Varun-3010/Applied-Programming-Skills/tree/master/0796-rotate-string) |
+| [0929-unique-email-addresses](https://github.com/Varun-3010/Applied-Programming-Skills/tree/master/0929-unique-email-addresses) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/Varun-3010/Applied-Programming-Skills/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [1704-determine-if-string-halves-are-alike](https://github.com/Varun-3010/Applied-Programming-Skills/tree/master/1704-determine-if-string-halves-are-alike) |
 ## Counting
