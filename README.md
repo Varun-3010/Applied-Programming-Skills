@@ -50,6 +50,7 @@ java
 | [0641-design-circular-deque](https://github.com/Varun-3010/Applied-Programming-Skills/tree/master/0641-design-circular-deque) |
 | [0695-max-area-of-island](https://github.com/Varun-3010/Applied-Programming-Skills/tree/master/0695-max-area-of-island) |
 | [0704-binary-search](https://github.com/Varun-3010/Applied-Programming-Skills/tree/master/0704-binary-search) |
+| [0721-accounts-merge](https://github.com/Varun-3010/Applied-Programming-Skills/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/Varun-3010/Applied-Programming-Skills/tree/master/0733-flood-fill) |
 | [0735-asteroid-collision](https://github.com/Varun-3010/Applied-Programming-Skills/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/Varun-3010/Applied-Programming-Skills/tree/master/0739-daily-temperatures) |
@@ -109,6 +110,7 @@ java
 | [0217-contains-duplicate](https://github.com/Varun-3010/Applied-Programming-Skills/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/Varun-3010/Applied-Programming-Skills/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/Varun-3010/Applied-Programming-Skills/tree/master/0621-task-scheduler) |
+| [0721-accounts-merge](https://github.com/Varun-3010/Applied-Programming-Skills/tree/master/0721-accounts-merge) |
 | [0977-squares-of-a-sorted-array](https://github.com/Varun-3010/Applied-Programming-Skills/tree/master/0977-squares-of-a-sorted-array) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Varun-3010/Applied-Programming-Skills/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Dynamic Programming
@@ -130,6 +132,7 @@ java
 | [0438-find-all-anagrams-in-a-string](https://github.com/Varun-3010/Applied-Programming-Skills/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/Varun-3010/Applied-Programming-Skills/tree/master/0496-next-greater-element-i) |
 | [0621-task-scheduler](https://github.com/Varun-3010/Applied-Programming-Skills/tree/master/0621-task-scheduler) |
+| [0721-accounts-merge](https://github.com/Varun-3010/Applied-Programming-Skills/tree/master/0721-accounts-merge) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Varun-3010/Applied-Programming-Skills/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0997-find-the-town-judge](https://github.com/Varun-3010/Applied-Programming-Skills/tree/master/0997-find-the-town-judge) |
 ## String
@@ -143,6 +146,7 @@ java
 | [0387-first-unique-character-in-a-string](https://github.com/Varun-3010/Applied-Programming-Skills/tree/master/0387-first-unique-character-in-a-string) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Varun-3010/Applied-Programming-Skills/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0459-repeated-substring-pattern](https://github.com/Varun-3010/Applied-Programming-Skills/tree/master/0459-repeated-substring-pattern) |
+| [0721-accounts-merge](https://github.com/Varun-3010/Applied-Programming-Skills/tree/master/0721-accounts-merge) |
 | [0796-rotate-string](https://github.com/Varun-3010/Applied-Programming-Skills/tree/master/0796-rotate-string) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/Varun-3010/Applied-Programming-Skills/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [1704-determine-if-string-halves-are-alike](https://github.com/Varun-3010/Applied-Programming-Skills/tree/master/1704-determine-if-string-halves-are-alike) |
@@ -258,6 +262,7 @@ java
 | [0542-01-matrix](https://github.com/Varun-3010/Applied-Programming-Skills/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/Varun-3010/Applied-Programming-Skills/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/Varun-3010/Applied-Programming-Skills/tree/master/0695-max-area-of-island) |
+| [0721-accounts-merge](https://github.com/Varun-3010/Applied-Programming-Skills/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/Varun-3010/Applied-Programming-Skills/tree/master/0733-flood-fill) |
 | [0841-keys-and-rooms](https://github.com/Varun-3010/Applied-Programming-Skills/tree/master/0841-keys-and-rooms) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Varun-3010/Applied-Programming-Skills/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -302,6 +307,7 @@ java
 | [0257-binary-tree-paths](https://github.com/Varun-3010/Applied-Programming-Skills/tree/master/0257-binary-tree-paths) |
 | [0547-number-of-provinces](https://github.com/Varun-3010/Applied-Programming-Skills/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/Varun-3010/Applied-Programming-Skills/tree/master/0695-max-area-of-island) |
+| [0721-accounts-merge](https://github.com/Varun-3010/Applied-Programming-Skills/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/Varun-3010/Applied-Programming-Skills/tree/master/0733-flood-fill) |
 | [0841-keys-and-rooms](https://github.com/Varun-3010/Applied-Programming-Skills/tree/master/0841-keys-and-rooms) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Varun-3010/Applied-Programming-Skills/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -352,6 +358,7 @@ java
 | [0200-number-of-islands](https://github.com/Varun-3010/Applied-Programming-Skills/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/Varun-3010/Applied-Programming-Skills/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/Varun-3010/Applied-Programming-Skills/tree/master/0695-max-area-of-island) |
+| [0721-accounts-merge](https://github.com/Varun-3010/Applied-Programming-Skills/tree/master/0721-accounts-merge) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Varun-3010/Applied-Programming-Skills/tree/master/1971-find-if-path-exists-in-graph) |
 ## Graph Theory
 |  |
