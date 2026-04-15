@@ -1,29 +1,28 @@
 class Solution {
     public boolean validPath(int n, int[][] edges, int source, int destination) {
-        Map<Integer, List<Integer>> graph = new HashMap<>();
+        if (source == destination) return true;
+        int[] parent = new int[n];
+        for (int i = 0; i < n; i++) {
+            parent[i] = i;
+        }
         for (int[] edge : edges) {
-            int u = edge[0];
-            int v = edge[1];
-            graph.computeIfAbsent(u, k -> new ArrayList<>()).add(v);
-            graph.computeIfAbsent(v, k -> new ArrayList<>()).add(u);
+            union(edge[0], edge[1], parent);
         }
-        
-        Set<Integer> visited = new HashSet<>();
-        return dfs(source, destination, graph, visited);
+        return find(destination, parent) == find(source, parent);
     }
-    
-    private boolean dfs(int node, int destination, Map<Integer, List<Integer>> graph, Set<Integer> visited) {
-        if (node == destination) {
-            return true;
+    private int find(int x, int[] parent) {
+        if (x == parent[x]) {
+            return x;
         }
-        visited.add(node);
-        for (int neighbor : graph.getOrDefault(node, new ArrayList<>())) {
-            if (!visited.contains(neighbor)) {
-                if (dfs(neighbor, destination, graph, visited)) {
-                    return true;
-                }
-            }
+        return parent[x] = find(parent[x], parent);
+    }
+
+    private void union(int x, int y, int[] parent) {
+        int rootX = find(x, parent);
+        int rootY = find(y, parent);
+        if (rootX != rootY) {
+            parent[rootX] = rootY;
         }
-        return false;
+
     }
 }
