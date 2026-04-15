@@ -146,6 +146,7 @@ java
 | [0929-unique-email-addresses](https://github.com/Varun-3010/Applied-Programming-Skills/tree/master/0929-unique-email-addresses) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Varun-3010/Applied-Programming-Skills/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0997-find-the-town-judge](https://github.com/Varun-3010/Applied-Programming-Skills/tree/master/0997-find-the-town-judge) |
+| [1763-longest-nice-substring](https://github.com/Varun-3010/Applied-Programming-Skills/tree/master/1763-longest-nice-substring) |
 ## String
 |  |
 | ------- |
@@ -163,6 +164,7 @@ java
 | [0929-unique-email-addresses](https://github.com/Varun-3010/Applied-Programming-Skills/tree/master/0929-unique-email-addresses) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/Varun-3010/Applied-Programming-Skills/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [1704-determine-if-string-halves-are-alike](https://github.com/Varun-3010/Applied-Programming-Skills/tree/master/1704-determine-if-string-halves-are-alike) |
+| [1763-longest-nice-substring](https://github.com/Varun-3010/Applied-Programming-Skills/tree/master/1763-longest-nice-substring) |
 ## Counting
 |  |
 | ------- |
@@ -178,6 +180,7 @@ java
 | [0239-sliding-window-maximum](https://github.com/Varun-3010/Applied-Programming-Skills/tree/master/0239-sliding-window-maximum) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Varun-3010/Applied-Programming-Skills/tree/master/0438-find-all-anagrams-in-a-string) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/Varun-3010/Applied-Programming-Skills/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
+| [1763-longest-nice-substring](https://github.com/Varun-3010/Applied-Programming-Skills/tree/master/1763-longest-nice-substring) |
 ## Recursion
 |  |
 | ------- |
@@ -194,6 +197,7 @@ java
 | [0190-reverse-bits](https://github.com/Varun-3010/Applied-Programming-Skills/tree/master/0190-reverse-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Varun-3010/Applied-Programming-Skills/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Varun-3010/Applied-Programming-Skills/tree/master/0347-top-k-frequent-elements) |
+| [1763-longest-nice-substring](https://github.com/Varun-3010/Applied-Programming-Skills/tree/master/1763-longest-nice-substring) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -397,4 +401,5 @@ java
 |  |
 | ------- |
 | [0190-reverse-bits](https://github.com/Varun-3010/Applied-Programming-Skills/tree/master/0190-reverse-bits) |
+| [1763-longest-nice-substring](https://github.com/Varun-3010/Applied-Programming-Skills/tree/master/1763-longest-nice-substring) |
 <!---LeetCode Topics End-->
