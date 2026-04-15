@@ -58,6 +58,7 @@ java
 | [0733-flood-fill](https://github.com/Varun-3010/Applied-Programming-Skills/tree/master/0733-flood-fill) |
 | [0735-asteroid-collision](https://github.com/Varun-3010/Applied-Programming-Skills/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/Varun-3010/Applied-Programming-Skills/tree/master/0739-daily-temperatures) |
+| [0746-min-cost-climbing-stairs](https://github.com/Varun-3010/Applied-Programming-Skills/tree/master/0746-min-cost-climbing-stairs) |
 | [0867-transpose-matrix](https://github.com/Varun-3010/Applied-Programming-Skills/tree/master/0867-transpose-matrix) |
 | [0929-unique-email-addresses](https://github.com/Varun-3010/Applied-Programming-Skills/tree/master/0929-unique-email-addresses) |
 | [0946-validate-stack-sequences](https://github.com/Varun-3010/Applied-Programming-Skills/tree/master/0946-validate-stack-sequences) |
@@ -132,6 +133,7 @@ java
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Varun-3010/Applied-Programming-Skills/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/Varun-3010/Applied-Programming-Skills/tree/master/0198-house-robber) |
 | [0542-01-matrix](https://github.com/Varun-3010/Applied-Programming-Skills/tree/master/0542-01-matrix) |
+| [0746-min-cost-climbing-stairs](https://github.com/Varun-3010/Applied-Programming-Skills/tree/master/0746-min-cost-climbing-stairs) |
 ## Hash Table
 |  |
 | ------- |
