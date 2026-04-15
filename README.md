@@ -33,6 +33,7 @@ java
 ## Array
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/Varun-3010/Applied-Programming-Skills/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/Varun-3010/Applied-Programming-Skills/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/Varun-3010/Applied-Programming-Skills/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Varun-3010/Applied-Programming-Skills/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -108,6 +109,7 @@ java
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/Varun-3010/Applied-Programming-Skills/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/Varun-3010/Applied-Programming-Skills/tree/master/0075-sort-colors) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Varun-3010/Applied-Programming-Skills/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Varun-3010/Applied-Programming-Skills/tree/master/0217-contains-duplicate) |
@@ -126,6 +128,7 @@ java
 ## Hash Table
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/Varun-3010/Applied-Programming-Skills/tree/master/0049-group-anagrams) |
 | [0142-linked-list-cycle-ii](https://github.com/Varun-3010/Applied-Programming-Skills/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Varun-3010/Applied-Programming-Skills/tree/master/0160-intersection-of-two-linked-lists) |
 | [0202-happy-number](https://github.com/Varun-3010/Applied-Programming-Skills/tree/master/0202-happy-number) |
@@ -146,6 +149,7 @@ java
 | [0005-longest-palindromic-substring](https://github.com/Varun-3010/Applied-Programming-Skills/tree/master/0005-longest-palindromic-substring) |
 | [0020-valid-parentheses](https://github.com/Varun-3010/Applied-Programming-Skills/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Varun-3010/Applied-Programming-Skills/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0049-group-anagrams](https://github.com/Varun-3010/Applied-Programming-Skills/tree/master/0049-group-anagrams) |
 | [0257-binary-tree-paths](https://github.com/Varun-3010/Applied-Programming-Skills/tree/master/0257-binary-tree-paths) |
 | [0344-reverse-string](https://github.com/Varun-3010/Applied-Programming-Skills/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/Varun-3010/Applied-Programming-Skills/tree/master/0387-first-unique-character-in-a-string) |
